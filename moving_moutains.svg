@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-363.71428"
-     inkscape:cy="143.29338"
+     inkscape:zoom="2.8"
+     inkscape:cx="237.88171"
+     inkscape:cy="69.921762"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -81,7 +81,7 @@
      inkscape:label="hole">
     <rect
        transform="translate(0,-229.26667)"
-       style="fill:#f9f9f9;stroke-width:0.25740129"
+       style="fill:#e7eff6;stroke-width:0.25740129;fill-opacity:1"
        y="238.52708"
        x="9.260417"
        height="49.212498"
@@ -89,7 +89,7 @@
        id="rect3807" />
     <rect
        transform="translate(0,-229.26667)"
-       style="fill:#f9f9f9;stroke-width:0.25740129"
+       style="fill:#e7eff6;stroke-width:0.25740129;fill-opacity:1"
        y="238.52708"
        x="38.629166"
        height="49.212498"
